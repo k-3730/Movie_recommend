@@ -7,9 +7,13 @@
 
 원본 데이터는 영화 데이터 주소를 참고하면 되고 전처리되어 있는 데이터를 사용했습니다.
 
-각 사용자가 영화를 볼 확률에 대해서 계산하고 결과값을 pred_target에 저장합니다.
+영화제목, 장르, 태그, 평점 데이터를 Embedding 시키고 Concat 합니다.
 
-최종결과는 userId, title, pred_target 3개의 컬럼을 가지는 csv 파일로 저장됩니다.
+그리고 전체 벡터 값을 각각 Factorization machine 모델, Neural Network 모델을 사용합니다.
+
+최종적으로 각 사용자가 영화를 볼 확률을 Sigmoid로 계산해서 결과값을 pred_target에 저장합니다.
+
+결과는 userId, title, pred_target 3개의 컬럼을 가지는 csv 파일로 저장됩니다.
 
 
 ## 모델

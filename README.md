@@ -15,7 +15,7 @@
 ## 모델
 DeepFM : https://arxiv.org/abs/1703.04247
 
-DeepFM 모델을 사용했습니다.
+![1](https://github.com/k-3730/Movie_recommend/assets/45035923/efb3a554-db2f-46f7-a96d-39fd168f8391)
 
 ### Hyper Parameter
 

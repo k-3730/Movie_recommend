@@ -44,7 +44,9 @@ rating : 영화 평점
 target : 영화 관람 여부 (0 = 관람 X, 1 = 관람 O)
 
 ## 결과 예시
-### Loss : 0.3966
-### AUC  : 0.8815
+LogLoss : 0.3966
+AUC     : 0.8815
+
+787번 사용자가 Cliffhanger 영화를 볼 확률은 0.002로 매우 낮은 결과를 볼 수 있습니다.
 
 ![image](https://github.com/k-3730/Movie_recommend/assets/45035923/50970e21-c60d-4ccb-b937-9c8234b96179)

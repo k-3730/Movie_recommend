@@ -17,6 +17,12 @@ DeepFM : https://arxiv.org/abs/1703.04247
 
 DeepFM 모델을 사용했습니다.
 
+### Hyper Parameter
+
+Batch size = 256
+
+epoch = 30
+
 
 ## 데이터 설명
 userId : 사용자 ID (1000명)

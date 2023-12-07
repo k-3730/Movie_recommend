@@ -7,7 +7,8 @@
 
 원본 데이터는 영화 데이터 주소를 참고하면 되고 전처리되어 있는 데이터를 사용했습니다.
 
-각 사용자가 영화를 볼 확률에 대해서 계산하고 결과값을 pred_target에 저장하고 userId, title, pred_target 3개의 컬럼을 가지는 csv 파일로 저장됩니다.
+각 사용자가 영화를 볼 확률에 대해서 계산하고 결과값을 pred_target에 저장하고 
+userId, title, pred_target 3개의 컬럼을 가지는 csv 파일로 저장됩니다.
 
 
 ## 모델

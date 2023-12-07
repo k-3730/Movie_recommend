@@ -7,6 +7,8 @@
 
 원본 데이터는 영화 데이터 주소를 참고하면 되고 전처리되어 있는 데이터를 사용했습니다.
 
+## 설명
+
 영화제목, 장르, 태그, 평점 데이터를 Embedding 시키고 Concat 합니다.
 
 그리고 전체 벡터 값을 각각 Factorization machine 모델, Neural Network 모델을 사용합니다.

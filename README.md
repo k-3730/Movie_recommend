@@ -38,4 +38,7 @@ rating : 영화 평점
 target : 영화 관람 여부 (0 = 관람 X, 1 = 관람 O)
 
 ## 결과 예시
+### loss : 0.3966
+### AUC  : 0.8815
+
 ![image](https://github.com/k-3730/Movie_recommend/assets/45035923/50970e21-c60d-4ccb-b937-9c8234b96179)

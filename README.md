@@ -24,7 +24,7 @@ Batch size = 256
 epoch = 30
 
 
-## 데이터 설명
+## 데이터
 userId : 사용자 ID (1000명)
 
 title : 영화 제목 (1000개)
